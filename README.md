@@ -2,7 +2,7 @@
 make   a  easily report with php mysql to PDF 
 
 Developer : ganesh kavhar
-Website : https://ganeshkavhr.github.io
+Website : https://ganeshkavhar.github.io
 
 
 Database View  
